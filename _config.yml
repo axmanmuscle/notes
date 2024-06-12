@@ -1,8 +1,8 @@
-title: NoteTheme
+title: Notes
 description: You cannot remember everything.
-baseurl: "/notetheme"
-url: ""
-repository: dinhanhthi/notetheme
+baseurl: ""
+url: "axmanmuscle.github.io/notes"
+repository: axmanmuscle/notes
 paginate: 28
 
 banner: "/assets/res/banner.png" # site banner (load when someone share your page url)
@@ -10,11 +10,10 @@ favicon: "/assets/res/favicon.png" # site's favicon (icon left side of your page
 
 # MatJek specific configurations
 user: 
-  name: "Math2IT"
-  email: "dinhanhthimail@gmail.com"
-  website: "math2it.com"
-  avatar: "/assets/res/user.png"
-  github: "dinhanhthi"
+  name: "Alex McManus"
+  email: "alex.tmcmanus@gmail.com"
+  website: "axmanmuscle.github.io"
+  github: "axmanmuscle"
 google_tracking_id: ""
 google_site_verification: ""
 disqus_shortname: this-site
