@@ -1,6 +1,6 @@
 title: Notes
 description: You cannot remember everything.
-baseurl: ""
+baseurl: "/notes"
 url: "axmanmuscle.github.io/notes"
 repository: axmanmuscle/notes
 paginate: 28
